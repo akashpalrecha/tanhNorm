@@ -6,6 +6,4 @@ from fastai.vision import *
 def get_model()->nn.Sequential:
     return models.resnet18()
 
-rnet = get_model().inplanes
-
-m = simple_cnn([3, 16, 64, 8])
+rnet = get_model()
