@@ -17,7 +17,8 @@ index = {"print_all": "00_core.ipynb",
          "modify_network": "00_core.ipynb"}
 
 modules = ["core.py",
-           "resnet34_experiment.py"]
+           "resnet34_experiment.py",
+           "simple_cnn_experiment.py"]
 
 git_url = "https://github.com/akashpalrecha/tanhNorm/tree/master/"
 
