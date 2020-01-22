@@ -8,17 +8,15 @@
 
 -->
 
-# Project name here
+# A Variation of Batchnorm without the mean and variance parameters
 
-> Summary description here.
+> This project explores the different possibilities that can lead to elimination of the mean and variance parameters in a Batchnorm layer and still give comparable results. The hypothesis is that this will lead to models that will be more robust to distribution changes in the incoming data.
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-> DOES NOT WORK : `pip install your_project_name`
+> TODO
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+> TODO

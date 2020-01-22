@@ -14,10 +14,13 @@ entries:
       url: /core
     - output: web,pdf
       title: Resnet34 Experiment
-      url: /resnet34_pretrained_experiment
+      url: /resnet34_experiment
     - output: web,pdf
       title: Simple CNN Experiment
       url: /simple_cnn_experiment
+    - output: web,pdf
+      title: Resnet34 pretrained experiment
+      url: /resnet34_pretrained_experiment
     output: web
     title: tanhNorm
   output: web

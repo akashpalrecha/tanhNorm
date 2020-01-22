@@ -2,7 +2,8 @@
   "tanhNorm": {
     "Overview": "/",
     "Core functionality": "/core",
-    "Resnet34 Experiment": "/resnet34_pretrained_experiment",
-    "Simple CNN Experiment": "/simple_cnn_experiment"
+    "Resnet34 Experiment": "/resnet34_experiment",
+    "Simple CNN Experiment": "/simple_cnn_experiment",
+    "Resnet34 pretrained experiment": "/resnet34_pretrained_experiment"
   }
 }
