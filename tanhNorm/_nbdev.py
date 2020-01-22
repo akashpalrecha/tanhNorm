@@ -21,6 +21,8 @@ modules = ["core.py",
            "simple_cnn_experiment.py",
            "resnet34_pretrained_experiment.py"]
 
+doc_url = "https://akashpalrecha.github.io/tanhNorm/"
+
 git_url = "https://github.com/akashpalrecha/tanhNorm/tree/master/"
 
 def custom_doc_links(name): return None
